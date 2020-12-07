@@ -1,6 +1,6 @@
 # Imersão de Python
 
-Que bom ter você por aqui! Seja mega bem vindo(a) à nossa imersão de Python do Zero! Um evento totalmente gratuíto feito para nossa comunidade na [Twitch](https://www.twitch.tv/teomewhy/)!
+Que bom ter você por aqui! Seja mega bem vindo(a) à nossa imersão de Python do Zero! Um evento totalmente gratuito feito para nossa comunidade na [Twitch](https://www.twitch.tv/teomewhy/)!
 
 Para participar, basta acessar nosso canal [Téo Me Why](https://www.twitch.tv/teomewhy/) no dia 19/12/2020 as 9:00 horas. Por lá, você acompanhará nosso conteúdo durante toda live, podendo fazer perguntas pelo chat.
 

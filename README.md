@@ -2,11 +2,11 @@
 
 Que bom ter você por aqui! Seja mega bem vindo(a) à nossa imersão de Python do Zero! Um evento totalmente gratuíto feito para nossa comunidade na [Twitch](https://www.twitch.tv/teomewhy/)!
 
-Para participar, basta acessar nosso canal [Téo Me Why](https://www.twitch.tv/teomewhy/) no dia 18/12/2020 as 9:00 horas. Por lá, você acompanhará nosso conteúdo durante toda live, podendo fazer perguntas pelo chat.
+Para participar, basta acessar nosso canal [Téo Me Why](https://www.twitch.tv/teomewhy/) no dia 19/12/2020 as 9:00 horas. Por lá, você acompanhará nosso conteúdo durante toda live, podendo fazer perguntas pelo chat.
 
 Não se esqueça de adicionar este evento em seu [calendário clicando aqui](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjdoNWwxcnZkMjhrZTBuZW5kNTZmNTdodTcgZ2hwamE0ZTJpYjhvZmdpZDk5OTVlZDExcmNAZw&tmsrc=ghpja4e2ib8ofgid9995ed11rc%40group.calendar.google.com).
 
-## [Calendário (18/12/2020)](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjdoNWwxcnZkMjhrZTBuZW5kNTZmNTdodTcgZ2hwamE0ZTJpYjhvZmdpZDk5OTVlZDExcmNAZw&tmsrc=ghpja4e2ib8ofgid9995ed11rc%40group.calendar.google.com)
+## [Calendário (19/12/2020)](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjdoNWwxcnZkMjhrZTBuZW5kNTZmNTdodTcgZ2hwamE0ZTJpYjhvZmdpZDk5OTVlZDExcmNAZw&tmsrc=ghpja4e2ib8ofgid9995ed11rc%40group.calendar.google.com)
 
 |Etapa|Início|Fim|
 |---|---|---|

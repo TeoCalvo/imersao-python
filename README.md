@@ -10,7 +10,6 @@ Não se esqueça de adicionar este evento em seu [calendário clicando aqui](htt
 
 |Etapa|Início|Fim|
 |---|---|---|
-|Preparativos|8:30|9:00|
 |Parte I|9:00|12:30|
 |Almoço|12:30|14:00|
 |Parte II|14:00|18:00|
@@ -36,8 +35,13 @@ Por meio de exemplos didáticos e aplicáveis, vários scripts serão criados ao
 
 [Téo Calvo](https://www.linkedin.com/in/teocalvo/) é especialista em Data Science & Big Data pela UFPR, bacharel em Estatística pela FCT-UNESP. Hoje atua como Coordenador de Customer Centric na Via Varejo SA. Já passou por empresas como Grupo Boticário e já atuou como consultor analítico no SAS Institute Brasil. Tem paixão por compartilhar seu conhecimento com os demais a partir de suas lives na [Twitch](https://www.twitch.tv/teomewhy/), o que tem feio desde Agosto de 2019.
 
-## Links Úteis
+## Recurso adicional para Subs da Twitch
 
+Caso você seja nosso sub, poderá fazer perguntas por meio do nosso canal de subs no [Discord](https://discord.gg/YUXQzBYQ). Durante toda transmissão o instrutor estará no canal de voz destinado aos subs, assim, nos momentos de perguntas e dúvidas, estes poderão realizá-las diretamente.
+
+Não é sub ainda e assina Amazon Prime? Vincule [aqui](https://twitch.amazon.com/tp) sua conta da Twitch com a da Amazon para virar um sub de forma gratuita.
+
+## Links Úteis
 
 ### Contato & Redes Sociais
 
@@ -54,4 +58,4 @@ Por meio de exemplos didáticos e aplicáveis, vários scripts serão criados ao
 
 ### Referências
 
-* [TeoMeRef](https://github.com/TeoCalvo/teomerefs)
+* [TeoMeRefs](https://github.com/TeoCalvo/teomerefs)
